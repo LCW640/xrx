@@ -1,0 +1,23 @@
+{
+  "name": "cangku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "se.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LCW640/xrx.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LCW640/xrx/issues"
+  },
+  "homepage": "https://github.com/LCW640/xrx#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
